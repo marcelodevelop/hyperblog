@@ -11,3 +11,13 @@ body {
     border:1px solid #DDDDDD;
     padding:1em;
 }
+
+
+.cabecera {
+    background:#333;
+    color:#FFF;
+    padding:2em;
+    text-transform:uppercase;
+    font-weight:bold;
+    border-radius:3px;
+}
